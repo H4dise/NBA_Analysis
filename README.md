@@ -18,5 +18,5 @@ The analysis aims to explore trends and answer key questions about the league du
 - Trends over the 10-season period.
 
 ## Files Included
-- `nba_analysis.ipynb`: Jupyter notebook containing the full code and visualizations.
-- `NBA_players_stats.csv`: The dataset used for the analysis.
+- `nba.ipynb`: Jupyter notebook containing the full code.
+- `NBA2000-2009.csv`: The dataset used for the analysis.
